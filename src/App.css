@@ -120,79 +120,9 @@
   font-size: 1rem;
   margin-top: 0.5rem;
 }
-
-profile-container {
-  padding: 30px;
-}
-
-.profile-container button {
-  background-color: #337ab7;
-  color: #fff;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-bottom: 20px;
-}
-
-.profile-container button:hover {
-  background-color: #286090;
-}
-
-.profile-container h1 {
-  font-size: 32px;
-  margin-bottom: 10px;
-}
-
-.profile-container p {
-  font-size: 18px;
-  margin-bottom: 20px;
-}
-
-.profile-container img {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  margin-bottom: 20px;
-}
-
-.profile-container h2 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.profile-container ul {
-  list-style: none;
-  padding: 0;
-}
-
-.profile-container li {
-  margin-bottom: 10px;
-  padding: 10px;
-  background: #f9f9f9;
-  border-radius: 5px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.profile-container li a {
-  color: #337ab7;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-.profile-container li a:hover {
-  text-decoration: underline;
-}
-
-.repo-info {
-  display: flex;
-  flex-direction: column;
-}
-
-.repo-id {
-  font-size: 12px;
-  color: #999;
+/* General Styles */
+.app-container {
+  padding: 20px;
+  background-color: #f3f4f6;
+  font-family: Arial, sans-serif;
 }
